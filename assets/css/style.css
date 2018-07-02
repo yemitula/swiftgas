@@ -112,6 +112,14 @@ ul {
 li {
   display: inline-block;
 }
+li.upstream{
+  display:list-item;
+  padding: 10px;
+}
+ul.upstream{
+  display: list-item;
+  padding: 10px;
+}
 iframe,
 audio {
   width: 100%;
