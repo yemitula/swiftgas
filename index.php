@@ -652,40 +652,37 @@ We also, offer franchise services for people interested in going into the LPG bu
 																</div><!-- /.post-meta -->
 
 																<p class="entry-content">
-																	<ul style="list-style-type:circle">
+																	<ul class="upstream">
 																		<li class="upstream">Risk based Inspections
 																			<ul style="list-style-type:disc">
 																				<li class="upstream"> Equipment Strategy Development using degradation modes</li>
 																				<li class="upstream">Saves you lots of $$ and Improves facility reliability and uptime</li>
 																			</ul>
 																		</li>
-																	</ul>  
-																	<ul style="list-style-type:circle">
+																	
 																		<li class="upstream">NDT
-																		<ul style="list-style-type:disc">
-																			<li class="upstream"> UT/MPI/RT/AE/Pipeline inline inspections etc.</li>
-																			<li class="upstream">Rope Access</li>
-																			<li class="upstream"> Third  Party Inspection Services</li>
-																		</ul>
+																			<ul style="list-style-type:disc">
+																				<li class="upstream"> UT/MPI/RT/AE/Pipeline inline inspections etc.</li>
+																				<li class="upstream">Rope Access</li>
+																				<li class="upstream"> Third  Party Inspection Services</li>
+																			</ul>
+																		</li>
+																	
+																		<li class="upstream">Engineering
+																			<ul style="list-style-type:disc">
+																				<li class="upstream"> Fit-for-Purpose Calculations</li>
+																				<li class="upstream">Brown Field modifications Engineering support</li>
+																				<li class="upstream">Pipe fit Assurance</li>
+																				<li class="upstream">Laser scanning and 3D modelling</li>
+																			</ul>
+																		</li>
+																	
+																		<li class="upstream">Procurement
+																			<ul style="list-style-type:disc">
+																				<li class="upstream"> Procurement of oil tools: Valves, line pipes etc</li>
+																			<ul>
 																		</li>
 																	</ul>
-																	<ul style="list-style-type:circle">
-																		<li class="upstream">Engineering
-																		<ul style="list-style-type:disc">
-																			<li class="upstream"> Fit-for-Purpose Calculations</li>
-																			<li class="upstream">Brown Field modifications Engineering support</li>
-																			<li class="upstream">Pipe fit Assurance</li>
-																			<li class="upstream">Laser scanning and 3D modelling</li>
-																		</ul>
-																	</li>
-																	</ul>
-																	<ul style="list-style-type:circle">
-																		<li class="upstream">Procurement
-																		<ul style="list-style-type:disc">
-																			<li class="upstream"> Procurement of oil tools: Valves, line pipes etc</li>
-																			<ul>
-																			</li>
-																			</ul>
 
 																</p><!-- /.entry-content -->
 															</div><!-- /.post-content -->

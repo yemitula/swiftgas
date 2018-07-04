@@ -114,10 +114,11 @@ li {
 }
 li.upstream{
   display:list-item;
-  padding: 10px;
+  margin-left: 10px;
+  line-height: 1.5em;
 }
 ul.upstream{
-  display: list-item;
+  list-style-type:circle;
   padding: 10px;
 }
 iframe,
