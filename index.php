@@ -312,7 +312,8 @@ It's far better to buy a wonderful company at a fair price than a fair company a
 												<div id="logo-slider" class="logo-slider owl-carousel">
 													<div class="item"><img src="images/partner-habour.jpg" alt="Harbour"></div>
 													<div class="item"><img src="images/partner-grafford.jpg" alt="Grafford"></div>
-													<div class="item"><img src="images/partner-kaneal.jpg" alt="Kaneal"></div>
+													<div class="item"><img src="images/enacit.jpg" alt="Enacit"></div>
+													<div class="item"><img src="images/nnpc logo.jpg" alt="NNPC"></div>
 													<div class="item"><img src="images/partner-firstprimeoak.jpg" alt="First Primeoak"></div>
 													
 												</div><!-- /#logo-slider -->
@@ -360,30 +361,7 @@ It's far better to buy a wonderful company at a fair price than a fair company a
 															</div>
 														</div>
 														
-														<div class="item">
-															<div class="col-sm-6">
-																<div class="box">
-																	<span class="from">Non-Executive Director</span>
-																	<div class="institution">
-																		Mr Adepoju Fagbola
-																	</div><!-- /.institution -->
-																</div><!-- /.box -->
-															</div>
-															<div class="col-sm-6">
-																<!-- <h3 class="name">Job name here</h3> --><!-- /.name -->
-																<p class="description">
-																	He started his career with Chartered Bank Plc as a customer service officer. He later moved to Marina International Bank now part of the Access Bank Family, he worked in various capacities from Operations to Treasury.
-																	<br><br>
-																	Adepoju left the bank to be part of a start company a web Advertising /web design firm called ‘Awoof.net’ Ventures.
-																	<br><br>
-																	He was in charge of Business Development and Operations. His foray into the Built Environment started when he joined Lloyd Anderson a firm into total facilities management & logistics as manager in charge of Operations. He was a founding Partner of Urspace Group, a firm in the business of Facilities Management, Project Management and Total Outsourcing; he was in charge of the entire operations of the company.
-																	<br><br>
-																	Adepoju is currently the CEO of First Primeoak Integrated Services Limited, a Project Management and construction support firm. He has attended various courses home and abroad to improve his knowledge of the workings of the Built Environment. An experienced Professional with over 14yrs work experience.
-																	<br><br>
-																	He graduated from the University of Lagos with a degree in Mathematics and Statistics and is an alumnus of the Lagos Business School.
-																</p><!-- /.description -->	
-															</div>
-														</div>
+														
 
 														<div class="item">
 															<div class="col-sm-6">
@@ -409,14 +387,33 @@ It's far better to buy a wonderful company at a fair price than a fair company a
 																<div class="box">
 																	<span class="from">ED Operations</span>
 																	<div class="institution">
-																		Mr Babatunde Popoola
+																		Mr Michael Momoh
 																	</div><!-- /.institution -->
 																</div><!-- /.box -->
 															</div>
 															<div class="col-sm-6">
 																<!-- <h3 class="name">Job name here</h3> --><!-- /.name -->
 																<p class="description">
-																	Received his BBA and Masters from Howard University Washington, DC and University of Maryland respectively. He holds various consulting roles including CQ Roll Call in Washington, DC. Prior to that he had a five-year career as a Business Analyst at DaVita Inc leading few projects then he decided it was time for a change in focus to direct his attention more into Finance where he was offered a position at CQ Roll Call in Washington, DC as a Senior Finance associate . In addition to his Professional career, Popoola has a strong passion for Business and Strategic planning. He currently resides in Washington, DC Area.
+																	Received his BBA and Masters from Howard University Washington, DC and University of Maryland respectively. He holds various consulting roles  in Washington, DC. Prior to that he had a five-year career as a Business Analyst leading multiple projects then he decided it was time for a change in focus to direct his attention more into Finance where he was offered a senior position in Washington DC as a Senior Finance associate . In addition to his Professional career, he has a strong passion for Business and Strategic planning. He currently resides in Washington, DC Area.
+																</p><!-- /.description -->	
+															</div>
+														</div>
+
+
+														<div class="item">
+															<div class="col-sm-6">
+																<div class="box">
+																	<span class="from">CTO</span>
+																	<div class="institution">
+																		Engr. Francis Adeogun
+																	</div><!-- /.institution -->
+																</div><!-- /.box -->
+															</div>
+															<div class="col-sm-6">
+																<!-- <h3 class="name">Job name here</h3> --><!-- /.name -->
+																<p class="description">
+																	Francis Adeogun has over twenty years work experience in the Nigerian oil and Gas industry in the areas of Engineering services, Information and Communication Technology and Project Management. Academically, he holds B.SC. and M.SC. in Electrical Engineering .
+																	His international qualification includes Cisco & Microsoft certification. He has attended various international oil and gas seminars in USA and Canada. He is a corporate member and an Examiner with Nigerian Society of Engineers and member of COREN.
 																</p><!-- /.description -->	
 															</div>
 														</div>
@@ -596,7 +593,7 @@ We also, offer franchise services for people interested in going into the LPG bu
 
 														<article class="post type-post">
 															<div class="post-thumbnail">
-																<img src="images/service-haulage.jpg" alt="Post Image">
+																<img src="images/bridger.png" alt="Post Image">
 															</div><!-- /.post-thumbnail -->
 															<div class="post-content">
 																<h3 class="entry-title"><a href="#">LPG and Diesel Haulage</a></h3><!-- /.entry-title -->
@@ -639,7 +636,7 @@ We also, offer franchise services for people interested in going into the LPG bu
 														
 																	<article class="post type-post">
 															<div class="post-thumbnail">
-																<img src="images/upstreamservices.jpg" alt="Post Image">
+																<img src="images/barge.png" alt="Post Image">
 															</div>
 															<div class="post-content">
 																<h3 class="entry-title"><a href="#">Upstream Services </a></h3><!-- /.entry-title -->
