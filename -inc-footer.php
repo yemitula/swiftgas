@@ -26,7 +26,7 @@
 												<!-- <li><a href="http://www.twitter.com/swiftgas_sc" target="_blank"><i class="ti-twitter-alt" ></i></a></li> -->
 												<li><a href="http://www.twitter.com/swiftgas_sc" target="_blank"><i class="fa fa-twitter social-icons-size twitter-color" ></i></a></li>
 												<li><a href="http://www.facebook.com/profile.php?id=100010224792217" target="_blank"><i class="fa fa-facebook social-icons-size facebook-color"></i></a></li>
-												<li><a href="#" ><i class="fa fa-instagram social-icons-size instagram-color"></i></a></li>
+												<li><a href="https://www.instagram.com/swiftgas_sc/" target="_blank" ><i class="fa fa-instagram social-icons-size instagram-color"></i></a></li>
 											</ul>
 										</div><!-- /.footer-social -->
 									</div>

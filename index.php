@@ -319,6 +319,26 @@ It's far better to buy a wonderful company at a fair price than a fair company a
 												</div><!-- /#logo-slider -->
 											</div>
 
+											<div class="bottom-padding">
+
+												<h3 class="section-title text-center">CSR</h3>
+
+												<div class="row">
+													<div class="col-md-12">
+														<p align="center">Swift Gas FC engaging youths</p>
+													</div>
+												</div>
+
+												<div class="row">
+													<div class="col-md-12">
+														<img src="images/team1.jpg">
+													</div>
+													<div class="col-md-12">
+														<img src="images/team2.jpg">
+													</div>
+												</div>
+											</div>
+
 										</div><!-- /.content-bottom -->	
 									</div><!-- /.container -->
 								</div><!-- /.angles-content -->
