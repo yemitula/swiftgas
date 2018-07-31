@@ -315,7 +315,7 @@ It's far better to buy a wonderful company at a fair price than a fair company a
 													<div class="item"><img src="images/enacit.jpg" alt="Enacit"></div>
 													<div class="item"><img src="images/nnpc logo.jpg" alt="NNPC"></div>
 													<div class="item"><img src="images/partner-firstprimeoak.jpg" alt="First Primeoak"></div>
-													
+													<div class="item"><img src="images/nlng.png" alt="NLNG"></div>
 												</div><!-- /#logo-slider -->
 											</div>
 
@@ -613,7 +613,7 @@ We also, offer franchise services for people interested in going into the LPG bu
 
 														<article class="post type-post">
 															<div class="post-thumbnail">
-																<img src="images/bridger.png" alt="Post Image">
+																<img src="images/service-haulage.jpg" alt="Post Image">
 															</div><!-- /.post-thumbnail -->
 															<div class="post-content">
 																<h3 class="entry-title"><a href="#">LPG and Diesel Haulage</a></h3><!-- /.entry-title -->
@@ -654,56 +654,7 @@ We also, offer franchise services for people interested in going into the LPG bu
 														</article>
 
 														
-																	<article class="post type-post">
-															<div class="post-thumbnail">
-																<img src="images/barge.png" alt="Post Image">
-															</div>
-															<div class="post-content">
-																<h3 class="entry-title"><a href="#">Upstream Services </a></h3><!-- /.entry-title -->
-																<div class="post-meta">
-																	<ul class="meta-list">
-																		<li>
-																			<span>Asset integrity Management</span>
-																		</li>
-																	</ul><!-- /.meta-list -->
-																</div><!-- /.post-meta -->
-
-																<p class="entry-content">
-																	<ul class="upstream">
-																		<li class="upstream">Risk based Inspections
-																			<ul style="list-style-type:disc">
-																				<li class="upstream"> Equipment Strategy Development using degradation modes</li>
-																				<li class="upstream">Saves you lots of $$ and Improves facility reliability and uptime</li>
-																			</ul>
-																		</li>
 																	
-																		<li class="upstream">NDT
-																			<ul style="list-style-type:disc">
-																				<li class="upstream"> UT/MPI/RT/AE/Pipeline inline inspections etc.</li>
-																				<li class="upstream">Rope Access</li>
-																				<li class="upstream"> Third  Party Inspection Services</li>
-																			</ul>
-																		</li>
-																	
-																		<li class="upstream">Engineering
-																			<ul style="list-style-type:disc">
-																				<li class="upstream"> Fit-for-Purpose Calculations</li>
-																				<li class="upstream">Brown Field modifications Engineering support</li>
-																				<li class="upstream">Pipe fit Assurance</li>
-																				<li class="upstream">Laser scanning and 3D modelling</li>
-																			</ul>
-																		</li>
-																	
-																		<li class="upstream">Procurement
-																			<ul style="list-style-type:disc">
-																				<li class="upstream"> Procurement of oil tools: Valves, line pipes etc</li>
-																			<ul>
-																		</li>
-																	</ul>
-
-																</p><!-- /.entry-content -->
-															</div><!-- /.post-content -->
-														</article>
 																</p><!-- /.entry-content -->
 															</div><!-- /.post-content -->
 														</article>
@@ -781,7 +732,56 @@ We also, offer franchise services for people interested in going into the LPG bu
 															</div><!-- /.post-content -->
 														</article>
 
-														
+														<article class="post type-post">
+															<div class="post-thumbnail">
+																<img src="images/barge.png" alt="Post Image">
+															</div>
+															<div class="post-content">
+																<h3 class="entry-title"><a href="#">Upstream Services </a></h3><!-- /.entry-title -->
+																<div class="post-meta">
+																	<ul class="meta-list">
+																		<li>
+																			<span>Asset integrity Management</span>
+																		</li>
+																	</ul><!-- /.meta-list -->
+																</div><!-- /.post-meta -->
+
+																<p class="entry-content">
+																	<ul class="upstream">
+																		<li class="upstream">Risk based Inspections
+																			<ul style="list-style-type:disc">
+																				<li class="upstream"> Equipment Strategy Development using degradation modes</li>
+																				<li class="upstream">Saves you lots of $$ and Improves facility reliability and uptime</li>
+																			</ul>
+																		</li>
+																	
+																		<li class="upstream">NDT
+																			<ul style="list-style-type:disc">
+																				<li class="upstream"> UT/MPI/RT/AE/Pipeline inline inspections etc.</li>
+																				<li class="upstream">Rope Access</li>
+																				<li class="upstream"> Third  Party Inspection Services</li>
+																			</ul>
+																		</li>
+																	
+																		<li class="upstream">Engineering
+																			<ul style="list-style-type:disc">
+																				<li class="upstream"> Fit-for-Purpose Calculations</li>
+																				<li class="upstream">Brown Field modifications Engineering support</li>
+																				<li class="upstream">Pipe fit Assurance</li>
+																				<li class="upstream">Laser scanning and 3D modelling</li>
+																			</ul>
+																		</li>
+																	
+																		<li class="upstream">Procurement
+																			<ul style="list-style-type:disc">
+																				<li class="upstream"> Procurement of oil tools: Valves, line pipes etc</li>
+																			<ul>
+																		</li>
+																	</ul>
+
+																</p><!-- /.entry-content -->
+															</div><!-- /.post-content -->
+														</article>
 
 
 													</div><!-- /.right-side -->

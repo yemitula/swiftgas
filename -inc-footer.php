@@ -3,7 +3,7 @@
 									<div class="col-sm-4">
 										<div class="copy-right">
 											<ul>
-												<li> &copy; Swift Gas 2015 - All Rights Reserved</li>
+												<li> &copy; Swift Gas <?php echo date("Y") ?> - All Rights Reserved</li>
 												<!-- <li>Developed by <a href="http://tulabyte.net" target="_blank">Tulabyte</a></li> -->
 											</ul>
 										</div><!-- /.copy-right -->
